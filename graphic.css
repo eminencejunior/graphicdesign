@@ -1,0 +1,38 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+body {
+
+}
+p {
+    color: black;
+}
+.bag {
+    font-size: 130px;
+    color: darkgoldenrod;
+    position: relative;
+}
+img {
+    margin-top: 0px;
+    height: 135px;
+    margin-left: 120px;
+    position: absolute;
+}
+section {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.stay {
+    margin-top: -40px;
+    margin-left: 90px;
+    color: white;
+    position: absolute;
+    background-color: black;
+}
+h1 {
+    margin-top: 10px;
+    margin-left: 90px;
+    position: absolute;
+}
