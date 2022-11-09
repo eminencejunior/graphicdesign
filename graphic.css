@@ -3,7 +3,7 @@
     margin: 0;
 }
 body {
-  background-image: url(shayoimage.jpg);
+  background-color: black;
 }
 p {
     color: black;
@@ -17,10 +17,9 @@ p {
 }
 img {
     margin-top: 20px;
-    height: 500px;
-    margin-left: 570px;
+    height: 430px;
+    margin-left: 670px;
     color: black;
-    border-radius: 190px;
     position: absolute;
 }
 section {
