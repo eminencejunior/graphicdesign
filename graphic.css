@@ -3,20 +3,23 @@
     margin: 0;
 }
 body {
-
+  background-image: url(shayoimage.jpg);
 }
 p {
     color: black;
 }
 .bag {
-    font-size: 130px;
-    color: darkgoldenrod;
+    font-size: 360px;
+    color: #ffffff;
+    margin-top: 20px;
+    margin-left: 100px;
     position: relative;
 }
 img {
-    margin-top: 0px;
-    height: 135px;
-    margin-left: 120px;
+    margin-top: 20px;
+    height: 500px;
+    margin-left: 570px;
+    border-radius: 190px;
     position: absolute;
 }
 section {
@@ -26,13 +29,16 @@ section {
 }
 .stay {
     margin-top: -40px;
-    margin-left: 90px;
+    margin-left: 470px;
+    font-size: 30px;
     color: white;
     position: absolute;
-    background-color: black;
 }
-h1 {
+.tara {
     margin-top: 10px;
-    margin-left: 90px;
+    color: white;
+    margin-top: 170px;
+    font-size: 110px;
+    margin-left: 460px;
     position: absolute;
 }
