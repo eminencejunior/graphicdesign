@@ -19,6 +19,7 @@ img {
     margin-top: 20px;
     height: 500px;
     margin-left: 570px;
+    color: black;
     border-radius: 190px;
     position: absolute;
 }
@@ -36,7 +37,7 @@ section {
 }
 .tara {
     margin-top: 10px;
-    color: white;
+    color:darkorange;
     margin-top: 170px;
     font-size: 110px;
     margin-left: 460px;
